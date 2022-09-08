@@ -9,7 +9,7 @@
 
 This small web app is a simple, quiz-like self-learning tool to practice foreign-languages phrases and words (here: helping the practice activity of Hungarian pupils in their learning English).
 
-[You can see and try it here](http://bilingual.curlgrep-phantom-funspec.hu:3000), the labels and explanations are all in English.
+[You can see and try it here](http://bilingual.curlgrep-phantom-funspec.hu:3001), the labels and explanations are all in English.
 
 ## Developer documentation
 
